@@ -1,0 +1,6 @@
+{
+  "name": "ElevenVoice Studio",
+  "description": "ElevenLabs-grade AI Voice Generator with lifelike speech synthesis, custom voices, multi-speaker dialogue, and audio mastering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
